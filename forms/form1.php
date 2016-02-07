@@ -7,7 +7,7 @@
         <p>Login form</p>
 
 
-</form avtion="form1.php" method="post">
+<form action="form1.php" method="post">
    username<input type="text" name="username">
    password<input type="password" name="username">
    <input type="submit" name="submit" name"Log in" value="login">
